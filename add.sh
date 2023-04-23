@@ -1,0 +1,1 @@
+mkdir config base make addon patch prebuilt addon_update patch_update debloat
